@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Digital Solution For Anti Corruption</string>
+    <string name="text">Enter Your Query or Suggestions</string>
+    <string-array name="Districts">
+        <item>Vishakapatanam</item>
+        <item>Vijayawada</item>
+        <item>EastGodawari</item>
+        <item>WestGodawari</item>
+    </string-array>
+</resources>
